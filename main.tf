@@ -4,7 +4,7 @@ provider "azurerm" {
 
 # Create a resource group
 resource "azurerm_resource_group" "rg" {
-  name     = "my-resource-group"
+  name     = "swapna021"
   location = "eastus"
 }
 
